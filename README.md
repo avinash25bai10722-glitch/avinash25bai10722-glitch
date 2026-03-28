@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Avinash NV
 
 🎓 B.Tech AI & ML Student  
 🏫 VIT Bhopal University  
