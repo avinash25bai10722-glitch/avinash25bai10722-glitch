@@ -2,7 +2,7 @@
 
 🎓 B.Tech AI & ML Student  
 🏫 VIT Bhopal University  
-📅 Graduation Year: 2028  
+📅 Graduation Year: 2029  
 
 💡 I am currently learning programming, AI/ML, and web development.
 
